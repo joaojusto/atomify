@@ -19,7 +19,9 @@
   "scripts": {
     "test": "grunt"
   },
-  "dependencies": {},
+  "dependencies": {
+    "node-spotify": "~0.7.0"
+  },
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-coffeelint": "0.0.8",
